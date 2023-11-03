@@ -1,6 +1,16 @@
 {
     "cSpell.words": [
         "bencode",
-        "bencoded"
+        "bencoded",
+        "bencodepy"
+    ],
+    "cSpell.enableFiletypes": [
+        "!c",
+        "!cpp",
+        "!csharp",
+        "!css",
+        "!php",
+        "!rust",
+        "!scala"
     ]
 }
